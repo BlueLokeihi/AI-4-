@@ -19,7 +19,7 @@
 1. **智谱AI ChatGLM3-6B 模型**  
    - 截图：![](media/image1.png)  
 2. **通义千问 Qwen-7B-Chat 模型**  
-   - 截图：`media/image2.png`  
+   - 截图：![](media/image2.png) 
 
 ---
 
@@ -37,8 +37,8 @@
 5. 分析对话中“意思”的不同含义（见原文示例）。  
 
 ### 回答截图  
-- **Qwen-7B-Chat**：`media/image3.png`、`media/image4.png`、`media/image5.png`  
-- **ChatGLM3-6B**：`media/image6.png`、`media/image7.png`  
+- **Qwen-7B-Chat**：![](media/image3.png)、![](media/image4.png)、![](media/image5.png)  
+- **ChatGLM3-6B**：![](media/image6.png)、![](media/image7.png)  
 
 ---
 
