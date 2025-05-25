@@ -17,7 +17,7 @@
 
 ### 部署模型  
 1. **智谱AI ChatGLM3-6B 模型**  
-   - 截图：`media/image1.png`  
+   - 截图：![](media/image1.png)  
 2. **通义千问 Qwen-7B-Chat 模型**  
    - 截图：`media/image2.png`  
 
