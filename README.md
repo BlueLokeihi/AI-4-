@@ -37,8 +37,8 @@
 5. 分析对话中“意思”的不同含义（见原文示例）。  
 
 ### 回答截图  
-- **Qwen-7B-Chat**：![](media/image3.png)、![](media/image4.png)、![](media/image5.png)  
-- **ChatGLM3-6B**：![](media/image6.png)、![](media/image7.png)  
+- **Qwen-7B-Chat**：![](media/image3.png) ![](media/image4.png) ![](media/image5.png)  
+- **ChatGLM3-6B**：![](media/image6.png) ![](media/image7.png)  
 
 ---
 
