@@ -37,12 +37,12 @@
 5. 分析对话中“意思”的不同含义（见原文示例）。  
 
 ### 回答截图  
-- **Qwen-7B-Chat**：![](media/image3.png) ![](media/image4.png) ![](media/image5.png)  
+- **Qwen-7B-Chat**：![](media/image3.png) ![](media/image4.png) ![](media/image5.png)  ![](media/image8.png)
 - **ChatGLM3-6B**：![](media/image6.png) ![](media/image7.png)  
 
 ---
 
-## 横向分析  (此为概括性总结，完整内容参考“ai_hw4.docx”)
+## 横向分析概括
 ### 1. 语言流畅性和可读性  
 - **ChatGLM3-6B**：输出正式、条理清晰，提供详细解释，适合严谨场景。  
 - **Qwen-7B-Chat**：语言直接、口语化，回答简洁直观。  
@@ -57,7 +57,11 @@
 
 ### 4. 回答一致性和逻辑性  
 - **ChatGLM3-6B**：逻辑连贯，分点分析清晰。  
-- **Qwen-7B-Chat**：简洁但可能简化复杂逻辑链条，深度不足。  
+- **Qwen-7B-Chat**：简洁但可能简化复杂逻辑链条，深度不足。
+
+### 5. 专业领域知识  
+- **ChatGLM3-6B**：从理论依据到实际操作方法都进行了全面的阐述
+- **Qwen-7B-Chat**：抓住问题的关键要点，为用户提供简洁有效的答案。
 
 ---
 
