@@ -43,7 +43,7 @@
 
 ### 回答截图  
 - **Qwen-7B-Chat**：![](media/image3.png) ![](media/image4.png) ![](media/image5.png)  ![](media/image8.png)
-- **ChatGLM3-6B**：![](media/image6.png) ![](media/image7.png)  
+- **ChatGLM3-6B**：![](media/image6.png) ![](media/image7.png)  ![](media/image9.png) 
 
 ---
 
